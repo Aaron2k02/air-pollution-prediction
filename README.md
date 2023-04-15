@@ -6,17 +6,12 @@
 2. Siti Maisarah Binti Ismail (U2000534)
 3. Kong Yan Hao (S2178056)
 
-<br/>
-
 ### Shiny App: 
-<br/>
 
 ### R Code: 
-<br/>
 
 ### Task Board: https://www.figma.com/file/10nX2hg5gyzRYYoPyjwZZa/TaskBoard?node-id=0%3A1&t=FniIMQQkKLCkvi24-1
 
-<br/>
 <br/>
 
 # __Project Structure__
@@ -29,7 +24,6 @@
 ### `/report`: This folder contains the final report and presentation slides for the project.
 ### `/README.md`: This file provides an overview of the project and its components.
 
-<br/>
 <br/>
 
 # __Data Science Process__
