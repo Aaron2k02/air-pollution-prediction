@@ -22,6 +22,7 @@
 ### `/code`  : This folder contains the R scripts and notebooks for data analysis, visualization, and modeling.
 ### `/app`   : This folder contains the files for the Shiny web application.
 ### `/report`: This folder contains the final report and presentation slides for the project.
+### `/.gitignore`: files and folders that is not meant for track or share with Git.
 ### `/README.md`: This file provides an overview of the project and its components.
 
 <br/>
